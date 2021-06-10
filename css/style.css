@@ -34,11 +34,19 @@ p{
     color: #ababab;
 }
 .profile-Photo{
-    height: 230px;
-    background-image: url(img/photo.jpg);
+    width: 100%;
+    text-align: center;
+    /* height: 230px; */
+    /* height: 230px;
+    background-image: url("/img/photo.jpg");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
+}
+.imgPhoto{
+    width: 100%;
+    background-size: center;
+    /* height: 250px; */
 }
 .profile-Info{
     padding-left: 30px;
